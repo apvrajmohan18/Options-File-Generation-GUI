@@ -1,0 +1,43 @@
+#LOCKED autosar_blockset_nnusers_98457 dummyuser
+#INCLUDE_BORROW AUTOSAR_Blockset:asset_info=98457 dummyuser
+#LOCKED fixed_point_toolbox:asset_info=98457 t2822rb
+#INCLUDE_BORROW fixed_point_toolbox:asset_info=98457 t2822rb
+#LOCKED fixed_point_blocks_nnusers_98457 t6965ct
+#INCLUDE_BORROW Fixed-Point_Blocks:asset_info=98457 t6965ct
+#LOCKED image_toolbox_nnusers_98457 t8205j0
+#INCLUDE_BORROW Image_Toolbox:asset_info=98457 t8205j0
+#LOCKED matlab_nnusers_860237 t2116hd t6491rv t2192md
+#LOCKED matlab_nnusers_98457 t7017a0 t6965ct t2267nr t2192md t7316tc t3168ph t5455kg t9142nl t2271ak t8205j0 t8082rr t1717sk t9020jt t6123kh
+#INCLUDE_BORROW MATLAB:asset_info=98457 t7017a0 t6965ct t2267nr t2192md t7316tc t3168ph t5455kg t9142nl t2271ak t8205j0 t8082rr t1717sk t9020jt t6123kh t7017a0
+#LOCKED MATLAB_Coder:asset_info=98457 t4034yn
+#INCLUDE_BORROW MATLAB_Coder:asset_info=98457 t4034yn
+#LOCKED optimization_toolbox_nnusers_98457 dummyuser
+#INCLUDE_BORROW Optimization_Toolbox:asset_info=98457 t7017a0
+#LOCKED RTW_Embedded_Coder:asset_info=98457 t4034yn
+#INCLUDE_BORROW RTW_Embedded_Coder:asset_info=98457 t4034yn
+#LOCKED real_time_workshop_nnusers_98457 dummyuser
+#INCLUDE_BORROW Real-Time_Workshop:asset_info=98457 dummyuser
+#LOCKED statistics_toolbox_nnusers_98457 t8205j0
+#INCLUDE_BORROW Statistics_Toolbox:asset_info=98457 t8205j0
+#LOCKED simscape_nnusers_98457 dummyuser
+#INCLUDE_BORROW Simscape:asset_info=98457 t7017a0
+#LOCKED signal_toolbox_nnusers_98457 t8251jh t8205j0 t9142nl t8082rr t1717sk t2192md
+#INCLUDE_BORROW Signal_Toolbox:asset_info=98457 t8205j0 t9142nl t8082rr t1717sk t2192md
+#LOCKED signal_blocks_nnusers_98457 dummyuser
+#INCLUDE_BORROW Signal_Blocks:asset_info=98457 t7017a0
+#LOCKED signal_blocks_nnusers_98457_R2020a dummyuser
+#INCLUDE_BORROW Signal_Blocks:asset_info=98457_R2020a dummyuser
+#LOCKED sl_verification_validation:asset_info=98457 t4034yn
+#INCLUDE_BORROW sl_verification_validation:asset_info=98457 t4034yn
+#LOCKED simulink_nnusers_98457 t7017a0 t6965ct t2267nr t2192md t7316tc t3168ph t5455kg t9142nl t8082rr t2271ak t8205j0 t1717sk t9020jt t6123kh
+#INCLUDE_BORROW SIMULINK:asset_info=98457 t7017a0 t6965ct t2267nr t2192md t5455kg t9142nl t8082rr t2271ak t8205j0 t1717sk t9020jt t6123kh
+#LOCKED stateflow_nnusers_98457 t7017a0 t6965ct t2267nr t2192md t7316tc t3168ph t8205j0 t2271ak t8082rr t1717sk t9020jt t6123kh
+#INCLUDE_BORROW Stateflow:asset_info=98457 t7017a0 t6965ct t2267nr t2192md t7316tc t3168ph t8205j0 t2271ak t8082rr t1717sk t9020jt t6123kh
+#LOCKED simulink_design_verifier_nnusers_98457 t4450me
+#INCLUDE_BORROW Simulink_Design_Verifier:asset_info=98457 dummyuser
+#LOCKED simulink_design_verifier_nnusers_98457_R2019a dummyuser
+#INCLUDE_BORROW Simulink_Design_Verifier:asset_info=98457_R2019a dummyuser
+#LOCKED vehicle_network_toolbox_nnusers_98457 dummyuser
+#INCLUDE_BORROW Vehicle_Network_Toolbox:asset_info=98457 t7017a0
+#LOCKED vehicle_network_toolbox_nnusers_98457_R2019a dummyuser
+#INCLUDE_BORROW Vehicle_Network_Toolbox:asset_info=98457_R2019a dummyuser
